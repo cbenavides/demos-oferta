@@ -1,3 +1,12 @@
 # Ignore Vosk models and large archives
 web-assets/models/
 *.tar.gz
+
+# Contexto de IA y Ground Truth heredado
+/.agents
+/.claude
+/.mcp.json
+/CLAUDE.md
+/GEMINI.md
+/.clauderules
+/docs-dev/ga-cl-ia
