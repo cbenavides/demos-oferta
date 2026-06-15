@@ -1,6 +1,8 @@
 # Ignore Vosk models and large archives
 web-assets/models/
 *.tar.gz
+!web-assets/libs/models/vosk-model-small-es-0.42.tar.gz
+
 
 # Contexto de IA y Ground Truth heredado
 /.agents
